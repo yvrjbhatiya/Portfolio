@@ -39,5 +39,5 @@ Welcome to my portfolio website! This is a showcase of my skills, projects, and 
 ## Hosted Url-
 
    ```
-   https://yuvrajsinghbhatiya.vercel.app/
+   https://yvrjbhatiya.vercel.app/
    ```
