@@ -1,4 +1,5 @@
 # Portfolio
+<<<<<<< HEAD
 
 Welcome to my portfolio website! This is a showcase of my skills, projects, and experiences. Explore my work, learn about my journey, and get in touch for collaboration opportunities.
 
@@ -41,3 +42,6 @@ Welcome to my portfolio website! This is a showcase of my skills, projects, and 
    ```
    https://yvrjbhatiya.vercel.app/
    ```
+=======
+My portfolio website.
+>>>>>>> d3a32efa1230a3179480870cd33b1ac9ae3df881
