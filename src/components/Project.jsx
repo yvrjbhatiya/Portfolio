@@ -1,7 +1,7 @@
 import React from "react";
 import Project1 from "../img/shopsee.webp";
 import Project2 from "../img/edumart.webp";
-import Project3 from "../img/carrental.webp";
+import Project3 from "../img/whisper.webp";
 
 const Project = () => {
   return (
@@ -35,7 +35,7 @@ const Project = () => {
           >
             <div className="project-img">
               <a
-                href="https://shop-see.vercel.app/"
+                href="https://theshopsee.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -54,7 +54,7 @@ const Project = () => {
               </p>
               <div className="project-btn">
                 <a
-                  href="https://github.com/yuvrajsinghbhatiya/Shop-See"
+                  href="https://github.com/yvrjbhatiya/Shopsee"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -62,7 +62,7 @@ const Project = () => {
                   View Code
                 </a>
                 <a
-                  href="https://shop-see.vercel.app/"
+                  href="https://theshopsee.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -81,7 +81,7 @@ const Project = () => {
           >
             <div className="project-img">
               <a
-                href="https://edumart-six.vercel.app/"
+                href="https://edumart-ten.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -92,15 +92,15 @@ const Project = () => {
               <h3>Edumart</h3>
               <p>
                 EduMart is an e-commerce app for students that offers a wide
-                range of educational products, including books, stationery,
-                and study materials.
+                range of educational products, including books, stationery, and
+                study materials.
               </p>
               <p>
                 TECH USED | <b>React, Node.js, MongoDB</b>
               </p>
               <div className="project-btn">
                 <a
-                  href="https://github.com/yuvrajsinghbhatiya/Edumart"
+                  href="https://github.com/yvrjbhatiya/Edumart"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -108,7 +108,7 @@ const Project = () => {
                   View Code
                 </a>
                 <a
-                  href="https://edumart-six.vercel.app/"
+                  href="https://edumart-ten.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -127,7 +127,7 @@ const Project = () => {
           >
             <div className="project-img">
               <a
-                href="https://cars-rentals.vercel.app/"
+                href="https://whisperit.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -135,18 +135,16 @@ const Project = () => {
               </a>
             </div>
             <div className="project-info">
-              <h3>Car Rental</h3>
+              <h3>Whisper</h3>
               <p>
-                Car Rental is a website for car rentals, constructed using HTML,
-                CSS, and JavaScript. Visitors can also browse the available
-                vehicles in the Cars section.
+                Whisper is a real-time chat application that allows users to connect and communicate instantly through messaging, with secure authentication and message history.
               </p>
               <p>
-                TECH USED | <b>HTML, CSS & JS</b>
+                TECH USED | <b>React.js, Node.js, Socket.io & MongoDB</b>
               </p>
               <div className="project-btn">
                 <a
-                  href="https://github.com/yuvrajsinghbhatiya/Car-Rental"
+                  href="https://github.com/yvrjbhatiya/Whisper"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -154,7 +152,7 @@ const Project = () => {
                   View Code
                 </a>
                 <a
-                  href="https://cars-rentals.vercel.app/"
+                  href="https://whisperit.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -168,7 +166,7 @@ const Project = () => {
         <p className="more">
           Visit my &nbsp;
           <a
-            href="https://github.com/yuvrajsinghbhatiya"
+            href="https://github.com/yvrjbhatiya"
             target="_blank"
             rel="noopener noreferrer"
           >

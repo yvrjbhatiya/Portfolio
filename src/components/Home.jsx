@@ -36,7 +36,7 @@ const Home = () => {
                   <FaLinkedin size={24} />
                 </a>
                 <a
-                  href="https://github.com/yuvrajsinghbhatiya"
+                  href="https://github.com/yvrjbhatiya"
                   data-aos="fade-up"
                   data-aos-delay="400"
                   data-aos-easing="ease-out-cubic"
