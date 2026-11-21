@@ -25,7 +25,7 @@ Welcome to my portfolio website! This is a showcase of my skills, projects, and 
 2. **Install Dependencies:**:
 
    ````bash
-    cd My-Portfolio
+    cd Portfolio
     npm install
     ```
 
