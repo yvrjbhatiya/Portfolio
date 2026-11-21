@@ -15,7 +15,7 @@ const Home = () => {
                 data-aos-duration="1000"
                 style={{ textAlign: "center" }}
               >
-                Front-end <br />
+                Full-Stack <br />
                 Developer
               </h1>
               <p
@@ -23,7 +23,7 @@ const Home = () => {
                 data-aos-anchor-placement="center-bottom"
                 data-aos-duration="1000"
               >
-                Crafting websites that are functional, engaging, and visually appealing.
+                Turning ideas into responsive, real-world web applications, from the UI to the database.
               </p>
 
               <div className="home-socials">

@@ -17,15 +17,13 @@ const About = () => {
             </div>
             <div className="about-subtitle">
               <p>
-                Hi, I’m Yuvraj — a front-end developer who loves
-                creating beautiful, responsive, and user-friendly websites. I
-                work mainly with ReactJS, JavaScript, HTML, CSS, and Tailwind
-                CSS, focusing on writing clean, efficient code and crafting
-                smooth digital experiences. I’m passionate about design,
-                attention to detail, and bringing ideas to life on screen. When
-                I’m not coding, I enjoy exploring nature and finding inspiration
-                in simple, peaceful moments — which often reflect in my design
-                style.
+                Hi, I'm Yuvraj, a frontend-focused full-stack developer who
+                builds clean, responsive, and user-friendly web applications
+                with React.js, Tailwind CSS, Node.js, and MongoDB. I've built
+                e-commerce platforms, real-time chat apps, and live data
+                trackers, and I care about clean code and smooth user
+                experiences. When I'm not coding, I enjoy exploring nature,
+                which often inspires my design style.
               </p>
             </div>
             <div className="tech-stack">
@@ -47,24 +45,89 @@ const About = () => {
                     data-aos-delay="200"
                   />
                   <img
-                    src="https://skillicons.dev/icons?i=tailwind"
-                    alt="Tailwind CSS"
+                    src="https://skillicons.dev/icons?i=js"
+                    alt="JavaScript"
                     data-aos="zoom-in-right"
                     data-aos-delay="300"
                   />
                   <img
-                    src="https://skillicons.dev/icons?i=js"
-                    alt="JavaScript"
+                    src="https://skillicons.dev/icons?i=react"
+                    alt="React.js"
                     data-aos="zoom-in-right"
                     data-aos-delay="400"
                   />
                   <img
-                    src="https://skillicons.dev/icons?i=react"
-                    alt="React"
+                    src="https://skillicons.dev/icons?i=redux"
+                    alt="Redux Toolkit"
                     data-aos="zoom-in-right"
                     data-aos-delay="500"
-                  /> 
-                
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=tailwind"
+                    alt="Tailwind CSS"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="600"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=materialui"
+                    alt="Material UI"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="700"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=bootstrap"
+                    alt="Bootstrap"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=nodejs"
+                    alt="Node.js"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=express"
+                    alt="Express.js"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=mongodb"
+                    alt="MongoDB"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=mysql"
+                    alt="MySQL"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=git"
+                    alt="Git"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=github"
+                    alt="GitHub"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=postman"
+                    alt="Postman"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
+                  <img
+                    src="https://skillicons.dev/icons?i=vercel"
+                    alt="Vercel"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="800"
+                  />
                 </ul>
               </div>
             </div>
